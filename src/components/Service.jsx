@@ -151,7 +151,7 @@ const Service = () => {
             y: { duration: 0.8 },
           }}
         >
-          <GradientText className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-semibold duration-300 pb-2 mt-25 mb-5 lg:pb-4">
+          <GradientText className="text-4xl md:text-5xl lg:text-6xl font-semibold duration-300 pb-2 mt-25 mb-5 lg:pb-4">
             Packages & Services
           </GradientText>
         </motion.div>
